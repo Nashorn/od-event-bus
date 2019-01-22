@@ -1,0 +1,11 @@
+{
+  "name": "od-event-bus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eventbus",
+  "author": "",
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
